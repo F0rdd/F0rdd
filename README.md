@@ -1,4 +1,5 @@
-## Hi there 👋
+## Aerospace Engineering Major :airplane:
+## Hobby Programmer :desktop_computer:
 
 <!--
 **F0rdd/F0rdd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
