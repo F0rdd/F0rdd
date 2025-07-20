@@ -1,4 +1,4 @@
-## MECH ENGR MJR
+## MECH ENGR @ UNIVERSITY OF DEARBORN
 
 <!--
 **F0rdd/F0rdd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
